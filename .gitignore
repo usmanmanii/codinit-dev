@@ -11,8 +11,6 @@ dist
 dist-ssr
 *.local
 
-.vscode/*
-.vscode/launch.json
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -26,8 +24,6 @@ dist-ssr
 /.cache
 /build
 functions/build/
-.env.local
-.env
 .dev.vars
 *.vars
 .wrangler
@@ -52,3 +48,4 @@ CLAUDE.md
 AGENTS.md*
 .mcp.json
 .claude
+config.bat
